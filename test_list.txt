@@ -1,0 +1,176 @@
+H. Li , M. Eddaoudi , M. O'Keeffe and O. M. Yaghi , Nature, 1999, 402 , 276 CrossRef CAS PubMed   .
+S. S. Y. Chui , S. M. F. Lo , J. P. H. Charmant , A. G. Orpen and I. D. Williams , Science, 1999, 283 , 1148 CrossRef CAS   .
+L. M. Huang , H. T. Wang , J. X. Chen , Z. B. Wang , J. Y. Sun , D. Y. Zhao and Y. S. Yan , Microporous Mesoporous Mater., 2003, 58 , 105 CrossRef CAS   .
+S. S. Kaye , A. Dailly , O. M. Yaghi and J. R. Long , J. Am. Chem. Soc., 2007, 129 , 14176 CrossRef CAS PubMed   .
+P. M. Schoenecker , C. G. Carson , H. Jasuja , C. J. J. Flemming and K. S. Walton , Ind. Eng. Chem. Res., 2012, 51 , 6513 CrossRef CAS   .
+S. R. Miller , D. Heurtaux , T. Baati , P. Horcajada , J.-M. Greneche and C. Serre , Chem. Commun., 2010, 46 , 4526 RSC   .
+W. J. Rieter , K. M. Pott , K. M. L. Taylor and W. B. Lin , J. Am. Chem. Soc., 2008, 130 , 11584 CrossRef CAS PubMed   .
+W. J. Rieter , K. M. L. Taylor , H. Y. An , W. L. Lin and W. B. Lin , J. Am. Chem. Soc., 2006, 128 , 9024 CrossRef CAS PubMed   .
+K. M. L. Taylor , A. Jin and W. B. Lin , Angew. Chem., Int. Ed., 2008, 47 , 7722 CrossRef CAS PubMed   .
+K. M. L. Taylor , W. J. Rieter and W. B. Lin , J. Am. Chem. Soc., 2008, 130 , 14358 CrossRef CAS PubMed  .
+L. Guillemot , T. Biben , A. Galarneau , G. Vigier and E. Charlaix , Proc. Natl. Acad. Sci. U. S. A., 2012, 109 , 19557 CrossRef CAS PubMed   .
+F. Cailliez , M. Trzpit , M. Soulard , I. Demachy , A. Boutin , J. Patarin and A. H. Fuchs , Phys. Chem. Chem. Phys., 2008, 10 , 4817 RSC   .
+Y. Liu , J. Liu , Y. S. Lin and M. Chang , J. Phys. Chem. C, 2014, 118 , 6744 CrossRef CAS   .
+A. C. Kizzie , A. G. Wong-Foy and A. J. Matzger , Langmuir, 2011, 27 , 6368 CrossRef CAS PubMed   .
+J. Liu , P. K. Thallapally , B. P. McGrail , D. R. Brown and J. Liu , Chem. Soc. Rev., 2012, 41 , 2308 RSC   .
+J. Liu , J. Tian , P. K. Thallapally and B. P. McGrail , J. Phys. Chem. C, 2012, 116 , 9575 CrossRef CAS   .
+E. Soubeyrand-Lenoir , C. Vagner , J. W. Yoon , P. Bazin , F. Ragon , Y. K. Hwang , C. Serre , J.-S. Chang and P. L. Llewellyn , J. Am. Chem. Soc., 2012, 134 , 10174 CrossRef CAS PubMed   .
+A. O. Yazaydin , A. I. Benin , S. A. Faheem , P. Jakubczak , J. J. Low , R. R. Willis and R. Q. Snurr , Chem. Mater., 2009, 21 , 1425 CrossRef CAS   .
+Y. F. Chen , R. Babarao , S. I. Sandler and J. W. Jiang , Langmuir, 2010, 26 , 8743 CrossRef CAS PubMed  .
+M. Sadakiyo , H. Okawa , A. Shigematsu , M. Ohba , T. Yamada and H. Kitagawa , J. Am. Chem. Soc., 2012, 134 , 5472 CrossRef CAS PubMed   .
+P. Guo , A. G. Wong-Foy and A. J. Matzger , Langmuir, 2014, 30 , 1921 CrossRef CAS PubMed   .
+N. A. Khan , B. K. Jung , Z. Hasan and S. H. Jhung , J. Hazard. Mater., 2014, 10.1016/j.jhazmat.2014.03.047 Search PubMed   .
+L. Xie , D. Liu , H. Huang , Q. Yang and C. Zhong , Chem. Eng. J., 2014, 246 , 142 CrossRef CAS PubMed  .
+H. Furukawa , F. Gandara , Y.-B. Zhang , J. Jiang , W. L. Queen , M. R. Hudson and O. M. Yaghi , J. Am. Chem. Soc., 2014, 136 , 4369 CrossRef CAS PubMed   .
+P. Kuesgens , M. Rose , I. Senkovska , H. Froede , A. Henschel , S. Siegle and S. Kaskel , Microporous Mesoporous Mater., 2009, 120 , 325 CrossRef CAS PubMed   .
+H. Deng , C. J. Doonan , H. Furukawa , R. B. Ferreira , J. Towne , C. B. Knobler , B. Wang and O. M. Yaghi , Science, 2010, 327 , 846 CrossRef CAS PubMed   .
+M. Eddaoudi , J. Kim , N. Rosi , D. Vodak , J. Wachter , M. O'Keeffe and O. M. Yaghi , Science, 2002, 295 , 469 CrossRef CAS PubMed   .
+J. L. C. Rowsell and O. M. Yaghi , J. Am. Chem. Soc., 2006, 128 , 1304 CrossRef CAS PubMed   .
+J. H. Im , N. Ko , S. J. Yang , H. J. Park , J. Kim and C. R. Park , New J. Chem., 2014, 10.1039/C4NJ00138A Search PubMed   .
+J. J. Low , A. I. Benin , P. Jakubczak , J. F. Abrahamian , S. A. Faheem and R. R. Willis , J. Am. Chem. Soc., 2009, 131 , 15834 CrossRef CAS PubMed   .
+C. Janiak and S. K. Henninger , Chimia, 2013, 67 , 419 CrossRef CAS PubMed   .
+J. B. DeCoste , G. W. Peterson , H. Jasuja , T. G. Glover , Y.-g. Huang and K. S. Walton , J. Mater. Chem. A, 2013, 1 , 5642 CrossRef CAS   .
+P. D. C. Dietzel , B. Panella , M. Hirscher , R. Blom and H. Fjellvag , Chem. Commun., 2006, 959 RSC   .
+K. A. Cychosz and A. J. Matzger , Langmuir, 2010, 26 , 17198 CrossRef CAS PubMed   .
+Z.-Y. Gu , G. Wang and X.-P. Yan , Anal. Chem., 2010, 82 , 1365 CrossRef CAS PubMed   .
+S. Hausdorf , J. Wagler , R. Mossig and F. O. R. L. Mertens , J. Phys. Chem. A, 2008, 112 , 7567 CrossRef CAS PubMed   .
+J. A. Greathouse and M. D. Allendorf , J. Am. Chem. Soc., 2006, 128 , 10678 CrossRef CAS PubMed   .
+S. Aguado , J. Canivet , Y. Schuurman and D. Farrusseng , J. Catal., 2011, 284 , 207 CrossRef CAS PubMed  .
+K. S. Park , Z. Ni , A. P. Cote , J. Y. Choi , R. Huang , F. J. Uribe-Romo , H. K. Chae , M. O'Keeffe and O. M. Yaghi , Proc. Natl. Acad. Sci. U. S. A., 2006, 103 , 10186 CrossRef CAS PubMed   .
+I. Bezverkhyy , G. Ortiz , G. Chaplais , C. Marichal , G. Weber and J.-P. Bellat , Microporous Mesoporous Mater., 2014, 183 , 156 CrossRef CAS PubMed   .
+D. Feng , Z.-Y. Gu , J.-R. Li , H.-L. Jiang , Z. Wei and H.-C. Zhou , Angew. Chem., Int. Ed., 2012, 51 , 10307 CrossRef CAS PubMed   .
+D. Feng , W.-C. Chung , Z. Wei , Z.-Y. Gu , H.-L. Jiang , Y.-P. Chen , D. J. Darensbourg and H.-C. Zhou , J. Am. Chem. Soc., 2013, 135 , 17105 CrossRef CAS PubMed   .
+H.-L. Jiang , D. Feng , K. Wang , Z.-Y. Gu , Z. Wei , Y.-P. Chen and H.-C. Zhou , J. Am. Chem. Soc., 2013, 135 , 13934 CrossRef CAS PubMed   .
+C. Volkringer and S. M. Cohen , Angew. Chem., Int. Ed., 2010, 49 , 4644 CrossRef CAS PubMed   .
+X. Liu , Y. Li , Y. Ban , Y. Peng , H. Jin , H. Bux , L. Xu , J. Caro and W. Yang , Chem. Commun., 2013, 49 , 9140 RSC   .
+M. Kandiah , M. H. Nilsen , S. Usseglio , S. Jakobsen , U. Olsbye , M. Tilset , C. Larabi , E. A. Quadrelli , F. Bonino and K. P. Lillerud , Chem. Mater., 2010, 22 , 6632 CrossRef CAS   .
+D. Cunha , M. Ben Yahia , S. Hall , S. R. Miller , H. Chevreau , E. Elkaim , G. Maurin , P. Horcajada and C. Serre , Chem. Mater., 2013, 25 , 2767 CrossRef CAS   .
+F. Vermoortele , M. Vandichel , B. Van de Voorde , R. Ameloot , M. Waroquier , V. Van Speybroeck and D. E. De Vos , Angew. Chem., Int. Ed., 2011, 51 , 4887 CrossRef PubMed   .
+M. Kim , J. F. Cahill , H. Fei , K. A. Prather and S. M. Cohen , J. Am. Chem. Soc., 2012, 134 , 18082 CrossRef CAS PubMed   .
+S. Pullen , H. Fei , A. Orthaber , S. M. Cohen and S. Ott , J. Am. Chem. Soc., 2013, 135 , 16997 CrossRef CAS PubMed   .
+M. Savonnet , D. Bazer-Bachi , N. Bats , J. Perez-Pellitero , E. Jeanneau , V. Lecocq , C. Pinel and D. Farrusseng , J. Am. Chem. Soc., 2010, 132 , 4518 CrossRef CAS PubMed   .
+H. J. Choi , M. Dinca , A. Dailly and J. R. Long , Energy Environ. Sci., 2010, 3 , 117 CrossRef CAS   .
+H. Jasuja , Y.-g. Huang and K. S. Walton , Langmuir, 2012, 28 , 16874 CrossRef CAS PubMed   .
+H. Jasuja , N. C. Burtch , Y.-g. Huang , Y. Cai and K. S. Walton , Langmuir, 2013, 29 , 633 CrossRef CAS PubMed   .
+D. Ma , Y. Li and Z. Li , Chem. Commun., 2011, 47 , 7377 RSC   .
+T. Wu , L. Shen , M. Luebbers , C. Hu , Q. Chen , Z. Ni and R. I. Masel , Chem. Commun., 2010, 46 , 6120 RSC   .
+J. M. Taylor , R. Vaidhyanathan , S. S. Iremonger and G. K. H. Shimizu , J. Am. Chem. Soc., 2012, 134 , 14338 CrossRef CAS PubMed   .
+L. Bellarosa , S. Calero and N. Lopez , Phys. Chem. Chem. Phys., 2012, 14 , 7240 RSC   .
+J. H. Cavka , S. Jakobsen , U. Olsbye , N. Guillou , C. Lamberti , S. Bordiga and K. P. Lillerud , J. Am. Chem. Soc., 2008, 130 , 13850 CrossRef PubMed   .
+J. Ehrenmann , S. K. Henninger and C. Janiak , Eur. J. Inorg. Chem., 2011, 471 CrossRef CAS   .
+G. Akiyama , R. Matsuda and S. Kitagawa , Chem. Lett., 2010, 39 , 360 CrossRef CAS   .
+I. J. Kang , N. A. Khan , E. Haque and S. H. Jhung , Chem. – Eur. J., 2011, 17 , 6437 CrossRef CAS PubMed  .
+K. Tan , N. Nijem , P. Canepa , Q. Gong , J. Li , T. Thonhauser and Y. J. Chabal , Chem. Mater., 2012, 24 , 3153 CrossRef CAS   .
+M. De Toni , R. Jonchiere , P. Pullumbi , F.-X. Coudert and A. H. Fuchs , ChemPhysChem, 2012, 13 , 3497 CrossRef CAS PubMed   .
+S. Paranthaman , F.-X. Coudert and A. H. Fuchs , Phys. Chem. Chem. Phys., 2010, 12 , 8123 RSC   .
+U. Ravon , M. E. Domine , C. Gaudillère , A. Desmartin-Chomel and D. Farrusseng , New J. Chem., 2008, 32 , 937 RSC   .
+U. Ravon , M. Savonnet , S. Aguado , M. E. Domine and D. Farrusseng , Microporous Mesoporous Mater., 2010, 129 , 319 CrossRef CAS PubMed   .
+J. R. Karra , B. E. Grabicka , Y.-G. Huang and K. S. Walton , J. Colloid Interface Sci., 2013, 392 , 331 CrossRef CAS PubMed   .
+J. Canivet , J. Bonnefoy , C. Daniel , A. Legrand , B. Coasne and D. Farrusseng , New J. Chem., 2014, 10.1039/C4NJ00076E Search PubMed   .
+W. S. Drisdell , R. Poloni , T. M. McDonald , J. R. Long , B. Smit , J. B. Neaton , D. Prendergast and J. B. Kortright , J. Am. Chem. Soc., 2013, 135 , 18183 CrossRef CAS PubMed   .
+P. D. C. Dietzel , R. E. Johnsen , R. Blom and H. Fjellvag , Chem. – Eur. J., 2008, 14 , 2389 CrossRef CAS PubMed   .
+F. Bonino , S. Chavan , J. G. Vitillo , E. Groppo , G. Agostini , C. Lamberti , P. D. C. Dietzel , C. Prestipino and S. Bordiga , Chem. Mater., 2008, 20 , 4957 CrossRef CAS   .
+K. Schlichte , T. Kratzke and S. Kaskel , Microporous Mesoporous Mater., 2004, 73 , 81 CrossRef CAS PubMed   .
+M. Haouas , C. Volkringer , T. Loiseau , G. Ferey and F. Taulelle , J. Phys. Chem. C, 2011, 115 , 17934 CrossRef CAS   .
+D. J. Tranchemontagne , J. L. Mendoza-Cortes , M. O'Keeffe and O. M. Yaghi , Chem. Soc. Rev., 2009, 38 , 1257 RSC   .
+A. Vimont , J. M. Goupil , J. C. Lavalley , M. Daturi , S. Surble , C. Serre , F. Millange , G. Ferey and N. Audebrand , J. Am. Chem. Soc., 2006, 128 , 3218 CrossRef CAS PubMed   .
+L. Grajciar , O. Bludsky and P. Nachtigall , J. Phys. Chem. Lett., 2010, 1 , 3354 CrossRef CAS   .
+L. Valenzano , B. Civalleri , S. Chavan , S. Bordiga , M. H. Nilsen , S. Jakobsen , K. P. Lillerud and C. Lamberti , Chem. Mater., 2011, 23 , 1700 CrossRef CAS   .
+A. D. Wiersum , E. Soubeyrand-Lenoir , Q. Yang , B. Moulin , V. Guillerm , M. Ben Yahia , S. Bourrelly , A. Vimont , S. Miller , C. Vagner , M. Daturi , G. Clet , C. Serre , G. Maurin and P. L. Llewellyn , Chem. – Asian J., 2011, 6 , 3270 CrossRef CAS PubMed   .
+G. Wißmann , A. Schaate , S. Lilienthal , I. Bremer , A. M. Schneider and P. Behrens , Microporous Mesoporous Mater., 2012, 152 , 64 CrossRef PubMed   .
+C. L. McCallum , T. J. Bandosz , S. C. McGrother , E. A. Muller and K. E. Gubbins , Langmuir, 1999, 15 , 533 CrossRef CAS   .
+M. Thommes , C. Morlay , R. Ahmad and J. P. Joly , Adsorption, 2011, 17 , 653 CrossRef CAS   .
+F. Jeremias , V. Lozan , S. K. Henninger and C. Janiak , Dalton Trans., 2013, 42 , 15967 RSC   .
+Y. Zhang , Y. Chen , Y. Zhang , H. Cong , B. Fu , S. Wen and S. Ruan , J. Nanopart. Res., 2013, 15 , 1 Search PubMed   .
+B. Coasne , A. Galarneau , R. J. M. Pellenq and F. Di Renzo , Chem. Soc. Rev., 2013, 42 , 4141 RSC   .
+B. Coasne , K. E. Gubbins and R. J. M. Pellenq , Adsorption, 2005, 11 , 289 CrossRef   .
+S. Brunauer , L. S. Deming , W. E. Deming and E. Teller , J. Am. Chem. Soc., 1940, 62 , 1723 CrossRef CAS  .
+F. Rouquerol , J. Rouquerol and K. Sing , Adsorption by Powders and Porous Solids: Principles, Methodology and Applications , Academic Press, 1999, Search PubMed   .
+S. Kittaka , S. Ishimaru , M. Kuranishi , T. Matsuda and T. Yamaguchi , Phys. Chem. Chem. Phys., 2006, 8 , 3223 RSC   .
+G. Akiyama , R. Matsuda , H. Sato , A. Hori , M. Takata and S. Kitagawa , Microporous Mesoporous Mater., 2012, 157 , 89 CrossRef CAS PubMed   .
+H. Naono , M. Hakuman , T. Tanaka , N. Tamura and K. Nakai , J. Colloid Interface Sci., 2000, 225 , 411 CrossRef CAS PubMed   .
+M. F. De Lange , J.-J. Gutierrez-Sevillano , S. Hamad , T. J. H. Vlugt , S. Calero , J. Gascon and F. Kapteijn , J. Phys. Chem. C, 2013, 117 , 7613 CrossRef CAS   .
+F. Jeremias , A. Khutia , S. K. Henninger and C. Janiak , J. Mater. Chem., 2012, 22 , 10148 RSC   .
+F. Salles , S. Bourrelly , H. Jobic , T. Devic , V. Guillerm , P. Llewellyn , C. Serre , G. Ferey and G. Maurin , J. Phys. Chem. C, 2011, 115 , 10764 CrossRef CAS   .
+V. Haigis , F. X. Coudert , R. Vuilleumier and A. Boutin , Phys. Chem. Chem. Phys., 2013, 15 , 19049 RSC  .
+P.-A. Albouy and A. Ayral , Chem. Mater., 2002, 14 , 3391 CrossRef CAS   .
+D. Jauffrès , C. Yacou , M. Verdier , R. Dendievel and A. Ayral , Microporous Mesoporous Mater., 2011, 140 , 120 CrossRef PubMed   .
+T. Loiseau , C. Serre , C. Huguenard , G. Fink , F. Taulelle , M. Henry , T. Bataille and G. Ferey , Chem. – Eur. J., 2004, 10 , 1373 CrossRef CAS PubMed   .
+F.-X. Coudert , A. Boutin , A. H. Fuchs and A. V. Neimark , J. Phys. Chem. Lett., 2013, 4 , 3198 CrossRef CAS  .
+A. Cheetham , C. Rao and R. Feller , Chem. Commun., 2006, 4780 RSC   .
+A. Boutin , D. Bousquet , A. U. Ortiz , F. X. Coudert , A. H. Fuchs , A. Ballandras , G. Weber , I. Bezverkhyy , J. P. Bellat , G. Ortiz , G. Chaplais , J. L. Paillaud , C. Marichal , H. Nouali and J. Patarin , J. Phys. Chem. C, 2013, 117 , 8180 CrossRef CAS   .
+F.-X. Coudert , A. U. Ortiz , V. Haigis , D. Bousquet , A. H. Fuchs , A. Ballandras , G. Weber , I. Bezverkhyy , N. Geoffroy , J.-P. Bellat , G. Ortiz , G. Chaplais , J. Patarin and A. Boutin , J. Phys. Chem. C, 2014, 118 , 5397 CrossRef CAS   .
+M. Soulard , J. Patarin , V. Eroshenko and R. Regis , Recent Advances in the Science and Technology of Zeolites and Related Materials , E. VanSteen, M. Claeys and L. H. Callanan, 2004, p. 1830 Search PubMed  .
+J. Liu , Y. Wang , A. I. Benin , P. Jakubczak , R. R. Willis and M. D. LeVan , Langmuir, 2010, 26 , 14301 CrossRef CAS PubMed   .
+S. K. Henninger , F. Jeremias , H. Kummer and C. Janiak , Eur. J. Inorg. Chem., 2012, 2625 CrossRef CAS  .
+T. Devic , F. Salles , S. Bourrelly , B. Moulin , G. Maurin , P. Horcajada , C. Serre , A. Vimont , J.-C. Lavalley , H. Leclerc , G. Clet , M. Daturi , P. L. Llewellyn , Y. Filinchuk and G. Ferey , J. Mater. Chem., 2012, 22 , 10266 RSC   .
+P. Horcajada , F. Salles , S. Wuttke , T. Devic , D. Heurtaux , G. Maurin , A. Vimont , M. Daturi , O. David , E. Magnier , N. Stock , Y. Filinchuk , D. Popov , C. Riekel , G. Ferey and C. Serre , J. Am. Chem. Soc., 2011, 133 , 17839 CrossRef CAS PubMed   .
+G. E. Cmarik , M. Kim , S. M. Cohen and K. S. Walton , Langmuir, 2012, 28 , 15606 CrossRef CAS PubMed  .
+H. Jasuja , J. Zang , D. S. Sholl and K. S. Walton , J. Phys. Chem. C, 2012, 116 , 23526 CrossRef CAS   .
+H. Jasuja and K. S. Walton , J. Phys. Chem. C, 2013, 117 , 7062 CrossRef CAS   .
+M. Wickenheisser , F. Jeremias , S. K. Henninger and C. Janiak , Inorg. Chim. Acta, 2013, 407 , 145 CrossRef CAS PubMed   .
+H. Reinsch , M. A. van der Veen , B. Gil , B. Marszalek , T. Verbiest , D. de Vos and N. Stock , Chem. Mater., 2013, 25 , 17 CrossRef CAS   .
+J. C. Saint Remi , T. Remy , V. Van Hunskerken , S. van de Perre , T. Duerinck , M. Maes , D. De Vos , E. Gobechiya , C. E. A. Kirschhock , G. V. Baron and J. F. M. Denayer , ChemSusChem, 2011, 4 , 1074 CrossRef PubMed   .
+R. P. Lively , M. E. Dose , J. A. Thompson , B. A. McCool , R. R. Chance and W. J. Koros , Chem. Commun., 2011, 47 , 8667 RSC   .
+A. U. Ortiz , A. P. Freitas , A. Boutin , A. H. Fuchs and F.-X. Coudert , Phys. Chem. Chem. Phys., 2014, 16 , 9940 RSC   .
+S. Aguado , J. Canivet and D. Farrusseng , J. Mater. Chem., 2011, 21 , 7582 RSC   .
+K. Zhang , R. P. Lively , M. E. Dose , A. J. Brown , C. Zhang , J. Chung , S. Nair , W. J. Koros and R. R. Chance , Chem. Commun., 2013, 49 , 3245 RSC   .
+D. Fairen-Jimenez , R. Galvelis , A. Torrisi , A. D. Gellan , M. T. Wharmby , P. A. Wright , C. Mellot-Draznieks and T. Dueren , Dalton Trans., 2012, 41 , 10752 RSC   .
+D. Fairen-Jimenez , S. A. Moggach , M. T. Wharmby , P. A. Wright , S. Parsons and T. Dueren , J. Am. Chem. Soc., 2011, 133 , 8900 CrossRef CAS PubMed   .
+S. Aguado , G. Bergeret , M. P. Titus , V. Moizan , C. Nieto-Draghi , N. Bats and D. Farrusseng , New J. Chem., 2011, 35 , 546 RSC   .
+G. Ortiz , H. Nouali , C. Marichal , G. Chaplais and J. Patarin , Phys. Chem. Chem. Phys., 2013, 15 , 4888 RSC  .
+B. Lefevre , A. Saugey , J. L. Barrat , L. Bocquet , E. Charlaix , P. F. Gobin and G. Vigier , J. Chem. Phys., 2004, 120 , 4927 CrossRef CAS PubMed   .
+B. Coasne , A. Galarneau , F. Di Renzo and R. J. M. Pellenq , J. Phys. Chem. C, 2009, 113 , 1953 CrossRef CAS   .
+J. C. Tan , B. Civalleri , C. C. Lin , L. Valenzano , R. Galvelis , P. F. Chen , T. D. Bennett , C. Mellot-Draznieks , C. M. Zicovich-Wilson and A. K. Cheetham , Phys. Rev. Lett., 2012, 108 , 095502 CrossRef   .
+C. R. Wade , T. Corrales-Sanchez , T. C. Narayan and M. Dinca , Energy Environ. Sci., 2013, 6 , 2172 CrossRef CAS   .
+C. Hansch , A. Leo , S. H. Unger , K. H. Kim , D. Nikaitani and E. J. Lien , J. Med. Chem., 1973, 16 , 1207 CrossRef CAS   .
+S. Horike , S. Shimomura and S. Kitagawa , Nat. Chem., 2009, 1 , 695 CrossRef CAS PubMed   .
+N. A. Ramsahye , T. Thuy Khuong , L. Scott , F. Nouar , T. Devic , P. Horcajada , E. Magnier , O. David , C. Serre and P. Trens , Chem. Mater., 2013, 25 , 479 CrossRef CAS   .
+R. Kitaura , F. Iwahori , R. Matsuda , S. Kitagawa , Y. Kubota , M. Takata and T. C. Kobayashi , Inorg. Chem., 2004, 43 , 6522 CrossRef CAS PubMed   .
+A. Shigematsu , T. Yamada and H. Kitagawa , J. Am. Chem. Soc., 2011, 133 , 2034 CrossRef CAS PubMed  .
+T. Lescouet , E. Kockrick , G. Bergeret , M. Pera-Titus , S. Aguado and D. Farrusseng , J. Mater. Chem., 2012, 22 , 10287 RSC   .
+T. Lescouet , E. Kockrick , G. Bergeret , M. Pera-Titus and D. Farrusseng , Dalton Trans., 2011, 40 , 11359 RSC  .
+G. Chaplais , A. Simon-Masseron , F. Porcher , C. Lecomte , D. Bazer-Bachi , N. Bats and J. Patarina , Phys. Chem. Chem. Phys., 2009, 11 , 5241 RSC   .
+C. Volkringer , T. Loiseau , N. Guillou , G. Ferey , E. Elkaim and A. Vimont , Dalton Trans., 2009, 2241 RSC  .
+A. U. Ortiz , A. Boutin and F.-X. Coudert , Chem. Commun., 2014, 50 , 5867 RSC   .
+T. Fukushima , S. Horike , Y. Inubushi , K. Nakagawa , Y. Kubota , M. Takata and S. Kitagawa , Angew. Chem., Int. Ed., 2010, 49 , 4820 CrossRef CAS PubMed   .
+M. Gaab , N. Trukhan , S. Maurer , R. Gummaraju and U. Müller , Microporous Mesoporous Mater., 2012, 157 , 131 CrossRef CAS PubMed   .
+A. Khutia , H. U. Rammelberg , T. Schmidt , S. Henninger and C. Janiak , Chem. Mater., 2013, 25 , 790 CrossRef CAS   .
+H. Reinsch , B. Marszalek , J. Wack , J. Senker , B. Gil and N. Stock , Chem. Commun., 2012, 48 , 9486 RSC  .
+J. Deng , R. Z. Wang and G. Y. Han , Prog. Energy Combust. Sci., 2011, 37 , 172 CrossRef CAS PubMed  .
+F. Meunier Appl. Therm. Eng., 2013, 61 , 830 CrossRef PubMed   .
+Y. I. Aristov Int. J. Refrig., 2009, 32 , 675 CrossRef CAS PubMed   .
+S. K. Henninger , H. A. Habib and C. Janiak , J. Am. Chem. Soc., 2009, 131 , 2776 CrossRef CAS PubMed  .
+J.-P. Zhang , A.-X. Zhu , R.-B. Lin , X.-L. Qi and X.-M. Chen , Adv. Mater., 2011, 23 , 1268 CrossRef CAS PubMed   .
+W. M. Raldow and W. E. Wentworth , Sol. Energy, 1979, 23 , 75 CrossRef CAS   .
+Y. I. Aristov Appl. Therm. Eng., 2013, 50 , 1610 CrossRef CAS PubMed   .
+Y. I. Aristov Appl. Therm. Eng., 2012, 42 , 18 CrossRef CAS PubMed   .
+J.-H. Wee Renewable Sustainable Energy Rev., 2007, 11 , 1720 CrossRef CAS PubMed   .
+S. G. Kandlikar and Z. Lu , J. Fuel Cell Sci. Technol., 2009, 6 , 044001 CrossRef   .
+T. Yamada , Y. Shirai and H. Kitagawa , Chem. – Asian J., 2014, 9 , 1316 CrossRef CAS PubMed   .
+K.-D. Kreuer , S. J. Paddison , E. Spohr and M. Schuster , Chem. Rev., 2004, 104 , 4637 CrossRef CAS   .
+K.-D. Kreuer , A. Rabenau and W. Weppner , Angew. Chem., Int. Ed., 1982, 21 , 208 CrossRef   .
+K.-D. Kreuer Chem. Mater., 1996, 8 , 610 CrossRef CAS   .
+J. T. S. Irvine , D. C. Sinclair and A. R. West , Adv. Mater., 1990, 2 , 132 CrossRef CAS   .
+S. Kanda , K. Yamashita and K. Ohkawa , Bull. Chem. Soc. Jpn., 1979, 52 , 3296 CrossRef CAS   .
+M. Yoon , K. Suh , S. Natarajan and K. Kim , Angew. Chem., Int. Ed., 2013, 52 , 2688 CrossRef CAS PubMed  .
+Y. Ren , G. H. Chia and Z. Gao , Nano Today, 2013, 8 , 577 CrossRef CAS PubMed   .
+A. Morozan and F. Jaouen , Energy Environ. Sci., 2012, 5 , 9269 CrossRef CAS   .
+A. Mallick , T. Kundu and R. Banerjee , Chem. Commun., 2012, 48 , 8829 RSC   .
+S. C. Sahoo , T. Kundu and R. Banerjee , J. Am. Chem. Soc., 2011, 133 , 17950 CrossRef CAS PubMed  .
+M. G. Goesten , J. Juan-Alcañiz , E. V. Ramos-Fernandez , K. B. Sai Sankar Gupta , E. Stavitski , H. van Bekkum , J. Gascon and F. Kapteijn , J. Catal., 2011, 281 , 177 CrossRef CAS PubMed   .
+J. M. Taylor , R. K. Mah , I. L. Moudrakovski , C. I. Ratcliffe , R. Vaidhyanathan and G. K. H. Shimizu , J. Am. Chem. Soc., 2010, 132 , 14055 CrossRef CAS PubMed   .
+S. Kim , K. W. Dawson , B. S. Gelfand , J. M. Taylor and G. K. H. Shimizu , J. Am. Chem. Soc., 2013, 135 , 963 CrossRef CAS PubMed   .
+J. M. Taylor , K. W. Dawson and G. K. H. Shimizu , J. Am. Chem. Soc., 2013, 135 , 1193 CrossRef CAS PubMed   .
+R. M. P. Colodrero , P. Olivera-Pastor , E. R. Losilla , M. A. G. Aranda , L. Leon-Reina , M. Papadaki , A. C. McKinlay , R. E. Morris , K. D. Demadis and A. Cabeza , Dalton Trans., 2012, 41 , 4045 RSC   .
+R. M. P. Colodrero , P. Olivera-Pastor , E. R. Losilla , D. Hernández-Alonso , M. A. G. Aranda , L. Leon-Reina , J. Rius , K. D. Demadis , B. Moreau , D. Villemin , M. Palomino , F. Rey and A. Cabeza , Inorg. Chem., 2012, 51 , 7689 CrossRef CAS PubMed   .
+F. Costantino , A. Donnadio and M. Casciola , Inorg. Chem., 2012, 51 , 6992 CrossRef CAS PubMed   .
+E. Pardo , C. Train , G. Gontard , K. Boubekeur , O. Fabelo , H. Liu , B. Dkhil , F. Lloret , K. Nakagawa , H. Tokoro , S.-i. Ohkoshi and M. Verdaguer , J. Am. Chem. Soc., 2011, 133 , 15328 CrossRef CAS PubMed   .
+M. Sadakiyo , T. Yamada and H. Kitagawa , J. Am. Chem. Soc., 2009, 131 , 9906 CrossRef CAS PubMed  .
+S. Horike , D. Umeyama , M. Inukai , T. Itakura and S. Kitagawa , J. Am. Chem. Soc., 2012, 134 , 7612 CrossRef CAS PubMed   .
+S. Sen , N. N. Nair , T. Yamada , H. Kitagawa and P. K. Bharadwaj , J. Am. Chem. Soc., 2012, 134 , 19432 CrossRef CAS PubMed   .
+S. Horike , Y. Kamitsubo , M. Inukai , T. Fukushima , D. Umeyama , T. Itakura and S. Kitagawa , J. Am. Chem. Soc., 2013, 135 , 4612 CrossRef CAS PubMed   .
+G. Xu , K. Otsubo , T. Yamada , S. Sakaida and H. Kitagawa , J. Am. Chem. Soc., 2013, 135 , 7438 CrossRef CAS PubMed   .
+X. Liang , F. Zhang , W. Feng , X. Zou , C. Zhao , H. Na , C. Liu , F. Sun and G. Zhu , Chem. Sci., 2013, 4 , 983 RSC   .
+B. Wu , X. Lin , L. Ge , L. Wu and T. Xu , Chem. Commun., 2013, 49 , 143 RSC   .
+A. A. Argun , J. N. Ashcraft and P. T. Hammond , Adv. Mater., 2008, 20 , 1539 CrossRef CAS   .
