@@ -39,6 +39,12 @@ class WaterSpider(scrapy.Spider):
         is_redirect = response.xpath('/html/body/div/div/center/a[2]').extract()
         is_redirect = html.unescape(is_redirect[0])
         url = re.findall(r'"([^"]*)"', is_redirect)[0]
+        if 'pubs.acs.org' in url:
+            try: 
+                doi = doi = re.findall(r'abs/([^""]*)\?', url)[0]
+                url = 'https://pubs.acs.org/doi/full/' + doi
+            except Exception:
+                print('Could not redirect to ACS full text')
         self.parse_redirect_page(url)
 
 
