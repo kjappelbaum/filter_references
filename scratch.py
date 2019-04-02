@@ -41,10 +41,11 @@ class WaterSpider(scrapy.Spider):
         url = re.findall(r'"([^"]*)"', is_redirect)[0]
         if 'pubs.acs.org' in url:
             try: 
-                doi = doi = re.findall(r'abs/([^""]*)\?', url)[0]
+                doi = re.findall(r'abs/([^""]*)\?', url)[0]
                 url = 'https://pubs.acs.org/doi/full/' + doi
             except Exception:
                 print('Could not redirect to ACS full text')
+
         self.parse_redirect_page(url)
 
 
@@ -54,8 +55,8 @@ class WaterSpider(scrapy.Spider):
         r.html.render(timeout=0, sleep=10)
         string = r.html.full_text
         search = re.findall(r'isotherm', string)
-        with open('result_log.txt', 'w+') as rl:
-            rl.write(self.reference + ' ' +  ''.join(search))
+        with open('result_log.txt', 'a') as rl:
+            rl.write(url + ' ' +  ' '.join(search) + '\n')
 
 if __name__ == '__main__':
 
@@ -71,8 +72,10 @@ if __name__ == '__main__':
         reference_list.append(reference)
 
         # settings = get_project_settings()
-    crawler = CrawlerProcess()
-    spider = WaterSpider()
-    crawler.crawl(spider, reference_list)
-    crawler.start()
-    
+    try:
+        crawler = CrawlerProcess()
+        spider = WaterSpider()
+        crawler.crawl(spider, reference_list)
+        crawler.start()
+    except Exception:
+        print('Exception occured')
