@@ -1,4 +1,4 @@
-from filter_metal_channels import doi_parser
+from parse_doi import doi_parser
 import pandas as pd
 import re
 

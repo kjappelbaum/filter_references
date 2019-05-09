@@ -8,7 +8,7 @@ __version__ = '0.1.0'
 __status__ = 'First Draft, Testing'
 
 import re
-from filter_metal_channels import doi_parser
+from parse_doi import doi_parser
 
 def test_doi_parser():
     doi_list = ['10.1039/b822934c', '10.1002/ejic.201700457', '10.1021/cg800248b']
