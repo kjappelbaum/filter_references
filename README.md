@@ -15,6 +15,8 @@ chemrefresolver redirects us to. Often this is only the abstract or another land
 Hence, I try to implement how to get from these pages to the HTML fulltext. 
 
 ## ToDo:
+- [ ] move away from scrapy and chemrefresolver. Write own tool to get DOIs from bibliography
+	and then only use CrossRefApi
 - [ ] use more features of scrapy
 - [ ] go to fulltext for more publishers than ACS
 - [ ] save a bit more context in output
