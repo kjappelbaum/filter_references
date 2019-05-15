@@ -16,6 +16,10 @@ from tqdm.autonotebook import tqdm
 import concurrent.futures
 import logging
 import re
+import numpy as np
+import requests
+from scrape_full_texts.run_scraper import start_scraping
+import time
 from .utils import isnotebook
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
@@ -46,7 +50,7 @@ class DoiParser():
         self.result_list = []
         self.error_dict = defaultdict(list)
         self._empty_results_dict = dict([(k, False) for k, __ in regex_dict.items()])
-
+        logger.info('Make sure that you have the spalsh image up and running. Otherwise I will fail soon')
         if isnotebook():
             logger.error('Requests HTML will not work in a notebook! Hence our parsing also will not work in a notebook!')
 
@@ -74,7 +78,7 @@ class DoiParser():
 
         return results_dict
 
-    def _parse_doi(self, doi: str) -> dict:
+    def _parse_doi_requests_html(self, session, doi: str) -> dict:
         """
 
         ToDo:
@@ -88,9 +92,10 @@ class DoiParser():
             dictionary with booleans as values and regex_dict keys as keys
 
         """
+        logger.info('Working on DOI %s', doi)
         try:
             url = works.doi(doi)['URL']
-        except KeyError:
+        except Exception:
             logger.error('Could not find a URL for this DOI')
             self.error_dict['url_not_found'].append(doi)
             results_dict = self._empty_results_dict
@@ -98,15 +103,15 @@ class DoiParser():
             return results_dict
         else:
             try:
-                session = HTMLSession()
                 r = session.get(url)
-                _ = r.html.render(timeout=0, sleep=10)
+                _ = r.html.render(timeout=20, wait=2)
                 text = r.html.full_text
                 results_dict = DoiParser._parse_string(text, self.regex_dict)
                 r.close()
-                session.close()
 
-            except Exception:
+                time.sleep(2)
+
+            except Exception or requests.exceptions.ConnectionError:
                 self.error_dict['parsing_error'].append(doi)
                 results_dict = self._empty_results_dict
                 results_dict['doi'] = doi
@@ -114,20 +119,43 @@ class DoiParser():
             else:
                 return results_dict
 
-    def parse(self) -> pd.DataFrame:
+    @staticmethod
+    def _get_url(doi):
+        logger.info('Working on DOI %s', doi)
+        try:
+            url = works.doi(doi)['URL']
+        except Exception:
+            logger.error('Could not find a URL for this DOI')
+
+            results_dict = {
+                'DOI': doi,
+                'url': np.nan
+            }
+            return results_dict
+        else:
+            results_dict = {
+                'DOI': doi,
+                'url': url
+            }
+            return results_dict
+
+    def parse_urls(self) -> pd.DataFrame:
         """
         Run parsing for this DOI parser object.
 
         Returns:
-            pd.DataFrame with parsing results.
+            pd.DataFrame with DOI, url columns
 
         """
-        with concurrent.futures.ProcessPoolExecutor(
-                max_workers=self.njobs) as executor:
-            for result_dict in tqdm(
-                    executor.map(self._parse_doi,
-                                 self.doi_list),
-                total=len(self.doi_list)):
-                self.result_list.append(result_dict)
+        for doi in tqdm(self.doi_list):
+            result_dict = self._get_url(doi)
+            self.result_list.append(result_dict)
 
         return pd.DataFrame(self.result_list)
+
+    def parse(self):
+        df = self.parse_urls()
+        df.dropna(inplace=True)
+        # By default it will output into data.json
+        # ToDo: make this more flexible
+        start_scraping(df, self.regex_dict)

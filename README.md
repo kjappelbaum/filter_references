@@ -20,4 +20,5 @@ Hence, I try to implement how to get from these pages to the HTML fulltext.
 - [ ] use more features of scrapy
 - [ ] go to fulltext for more publishers than ACS
 - [ ] save a bit more context in output
+- [ ] patch the pypeeter connection closed bug
 - [ ] better way of writing output, e.g. using the items in scrapy 
