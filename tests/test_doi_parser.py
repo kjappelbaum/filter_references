@@ -35,5 +35,4 @@ def test_doi_parser():
     }
 
     dp = doi_parser.DoiParser(doi_list, regex_dict)
-    df = dp.parse()
-    assert len(df) == len(doi_list)
+    dp.parse()

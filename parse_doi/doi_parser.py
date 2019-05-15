@@ -18,7 +18,7 @@ import logging
 import re
 import numpy as np
 import requests
-from scrape_full_texts.run_scraper import start_scraping
+from .scrape_full_texts.run_scraper import start_scraping
 import time
 from .utils import isnotebook
 logger = logging.getLogger()
@@ -50,7 +50,9 @@ class DoiParser():
         self.result_list = []
         self.error_dict = defaultdict(list)
         self._empty_results_dict = dict([(k, False) for k, __ in regex_dict.items()])
-        logger.info('Make sure that you have the spalsh image up and running. Otherwise I will fail soon')
+        # todo: make this automatic. Orchestrate with Kubernetes
+        logger.info('Make sure that you have the splash image up and running (using docker run -p 8050:8050 scrapinghub/splash).'
+                    ' Otherwise I will fail soon')
         if isnotebook():
             logger.error('Requests HTML will not work in a notebook! Hence our parsing also will not work in a notebook!')
 

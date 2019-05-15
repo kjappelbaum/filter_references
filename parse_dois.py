@@ -27,6 +27,4 @@ regex_dict = {
 }
 
 dp = doi_parser.DoiParser(doi_list, regex_dict)
-df_parsed = dp.parse()
-
-df_parsed.to_csv('parsed_full_text.csv', index=False)
+dp.parse()
